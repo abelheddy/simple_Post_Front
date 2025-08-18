@@ -77,7 +77,7 @@ export default api;*/
 import axios from 'axios';
 
 // URLs base para los diferentes backends
-const GO_API_URL = 'http://localhost:8080';
+const GO_API_URL = 'https://backend-go-trn3.onrender.com';
 const NODE_API_URL = 'http://localhost:3000/api';
 
 // Instancia para el backend de Go (ventas)
